@@ -20,5 +20,5 @@
     height: 250px;
 }
 .content-div:hover {
-    background-color: blue;
+    background-color: rgb(0, 0, 0) !important;
 }
