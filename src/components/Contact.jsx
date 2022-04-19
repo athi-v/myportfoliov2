@@ -2,7 +2,7 @@ import React from "react";
 import {FiSend} from 'react-icons/fi'
 const Contact = () => {
   return (
-    <div name="contact" className="bg-[#f1f5f9] text-[#0f172a] py-10">
+    <div name="contact" className="bg-[#f1f5f9] text-[#0f172a] py-[5rem]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-teal-600">

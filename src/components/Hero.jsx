@@ -12,19 +12,21 @@ const Hero = () => {
           Athenkosi Vinqi
         </h1>
         <h2 className="text-3xl text-[#0f172a] sm:text-5xl font-bold py-4 max-w-[700px]">
-          I am Freelance Web Developer.
+          I am a Fullstack Web Developer.
         </h2>
-        <p className="text-2xl font-semi-bold text-[#334155] py-2">Welcome to my personal portfolio</p>
+        <p className="text-2xl font-semi-bold text-[#334155] py-2">
+          Welcome to my personal portfolio
+        </p>
 
         <div>
-          <Link to="projects" spy={true} smooth={true} duration={500}>
+          <a href="/projects">
             <button className="text-[#0f172a] bg-teal-600 border-teal-600 group border-2 px-6 py-3 rounded flex items-center hover:bg-teal-900 hover:border-teal-900">
               See Projects
               <span className="group-hover:rotate-90 duration-500">
                 <HiArrowNarrowRight className="ml-3" />
               </span>
             </button>
-          </Link>
+          </a>
         </div>
       </div>
     </div>
