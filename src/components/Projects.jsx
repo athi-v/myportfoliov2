@@ -24,6 +24,31 @@ const Projects = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid */}
           <div
+            style={{ backgroundImage: `url(${Movie})` }}
+            className="shadow-lg shadow-[#cbd5e1] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            <div className="text-center opacity-0 group-hover:opacity-100">
+              <span className="text-[#fff] text-2xl font-bold tracking-wider">
+                Mango+
+              </span>
+              <div>
+                <div className="pt-8">
+                  <a href="https://mangoplus.netlify.app/" target='_blank'>
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
+                      View Website
+                    </button>
+                  </a>
+                  <a href="https://github.com/athi-v/mango-plus" target='_blank'>
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
+                      Github
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div
             style={{ backgroundImage: `url(${Note})` }}
             className="shadow-lg shadow-[#cbd5e1] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -198,7 +223,7 @@ const Projects = () => {
             </div>
           </div>
 
-          <div
+          {/* <div
             style={{ backgroundImage: `url(${Movie})` }}
             className="shadow-lg shadow-[#cbd5e1] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
@@ -221,7 +246,7 @@ const Projects = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
 
           <div
             style={{ backgroundImage: `url(${Ricky})` }}

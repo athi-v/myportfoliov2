@@ -10,6 +10,7 @@ import Nodes from '../assets/node.png';
 import Api from '../assets/api.png';
 import Redu from '../assets/redux.png';
 import Mongo from '../assets/mongo.png';
+import Fire from '../assets/firebase.png'
 
 const Skills = () => {
   return (
@@ -74,6 +75,11 @@ const Skills = () => {
           <div className='shadow-md shadow-[#cbd5e1] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={Api} />
             <p className='my-4'>APIs</p>
+          </div>
+
+          <div className='shadow-md shadow-[#cbd5e1] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={Fire} />
+            <p className='my-4'>Firebase</p>
           </div>
 
           <div className='shadow-md shadow-[#cbd5e1] hover:scale-110 duration-500'>

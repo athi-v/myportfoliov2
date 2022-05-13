@@ -18,7 +18,7 @@ const Hero = () => {
           Welcome to my personal portfolio
         </p>
 
-        <div>
+        {/* <div>
           <a href="/projects">
             <button className="text-[#0f172a] bg-teal-600 border-teal-600 group border-2 px-6 py-3 rounded flex items-center hover:bg-teal-900 hover:border-teal-900">
               See Projects
@@ -27,7 +27,7 @@ const Hero = () => {
               </span>
             </button>
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
