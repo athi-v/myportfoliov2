@@ -12,6 +12,7 @@ import Redu from '../assets/redux.png';
 import Mongo from '../assets/mongo.png';
 import Fire from '../assets/firebase.png'
 import Gits from '../assets/gits.png'
+import Wordp from '../assets/wordp.png'
 
 const Skills = () => {
   return (
@@ -51,6 +52,11 @@ const Skills = () => {
           <div className='shadow-md shadow-[#cbd5e1] hover:scale-110 duration-500'>
             <img className='w-20 mx-auto' src={Tail} />
             <p className='my-4'>TailwindCSS</p>
+          </div>
+
+          <div className='shadow-md shadow-[#cbd5e1] hover:scale-110 duration-500'>
+            <img className='w-20 mx-auto' src={Wordp} />
+            <p className='my-4'>Wordpress</p>
           </div>
 
           <div className='shadow-md shadow-[#cbd5e1] hover:scale-110 duration-500'>
