@@ -33,7 +33,7 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://mangoplus.netlify.app/" target='_blank'>
+                  <a href="https://mango-e4c30.web.app/" target='_blank'>
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
