@@ -33,12 +33,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://mango-e4c30.web.app/" target='_blank'>
+                  <a href="https://mango-e4c30.web.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/mango-plus" target='_blank'>
+                  <a href="https://github.com/athi-v/mango-plus" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -58,12 +58,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://notekeeperathenkosi.herokuapp.com/" target='_blank'>
+                  <a href="https://notekeeperathenkosi.herokuapp.com/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/notekeeper" target='_blank'>
+                  <a href="https://github.com/athi-v/notekeeper" target='_blank' rel="noreferrer" >
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -83,12 +83,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://chainpal-crypto.netlify.app/" target='_blank'>
+                  <a href="https://chainpal-crypto.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/chainpal" target='_blank'>
+                  <a href="https://github.com/athi-v/chainpal" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -108,12 +108,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://covidcorona2019.netlify.app/" target='_blank'>
+                  <a href="https://covidcorona2019.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/covid2019" target='_blank'>
+                  <a href="https://github.com/athi-v/covid2019" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -133,12 +133,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://weather-app-athi.netlify.app/" target='_blank'>
+                  <a href="https://weather-app-athi.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/weatherapp" target='_blank'>
+                  <a href="https://github.com/athi-v/weatherapp" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -158,12 +158,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://active-data.netlify.app/" target='_blank'>
+                  <a href="https://active-data.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/active-data" target='_blank'>
+                  <a href="https://github.com/athi-v/active-data" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -183,12 +183,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://telect.netlify.app/" target='_blank'>
+                  <a href="https://telect.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/telectcompany" target='_blank'>
+                  <a href="https://github.com/athi-v/telectcompany" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -208,12 +208,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://dogtinder-2020.netlify.app/" target='_blank'>
+                  <a href="https://dogtinder-2020.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/dogtinder2020" target='_blank'>
+                  <a href="https://github.com/athi-v/dogtinder2020" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -223,31 +223,7 @@ const Projects = () => {
             </div>
           </div>
 
-          {/* <div
-            style={{ backgroundImage: `url(${Movie})` }}
-            className="shadow-lg shadow-[#cbd5e1] group container rounded-md flex justify-center items-center mx-auto content-div"
-          >
-            <div className="text-center opacity-0 group-hover:opacity-100">
-              <span className="text-[#fff] text-2xl font-bold tracking-wider">
-                Movie+
-              </span>
-              <div>
-                <div className="pt-8">
-                  <a href="https://movieplus2022.netlify.app/" target='_blank'>
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
-                      View Website
-                    </button>
-                  </a>
-                  <a href="https://github.com/athi-v/movies" target='_blank'>
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
-                      Github
-                    </button>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div> */}
-
+        
           <div
             style={{ backgroundImage: `url(${Ricky})` }}
             className="shadow-lg shadow-[#cbd5e1] group container rounded-md flex justify-center items-center mx-auto content-div"
@@ -258,12 +234,12 @@ const Projects = () => {
               </span>
               <div>
                 <div className="pt-8">
-                  <a href="https://rickandmorty-cast.netlify.app/" target='_blank'>
+                  <a href="https://rickandmorty-cast.netlify.app/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/rickmorty" target='_blank'>
+                  <a href="https://github.com/athi-v/rickmorty" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
@@ -284,12 +260,12 @@ const Projects = () => {
               <div>
               
                 <div className="pt-8">
-                  <a href="https://athenkosiapi.herokuapp.com/" target='_blank'>
+                  <a href="https://athenkosiapi.herokuapp.com/" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       View Website
                     </button>
                   </a>
-                  <a href="https://github.com/athi-v/ap1" target='_blank'>
+                  <a href="https://github.com/athi-v/ap1" target='_blank' rel="noreferrer">
                     <button className="text-center rounded-lg px-4 py-3 m-2 bg-teal-600 font-bold text-lg">
                       Github
                     </button>
